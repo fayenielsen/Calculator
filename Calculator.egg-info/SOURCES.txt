@@ -1,6 +1,5 @@
 LICENSE
 README
-pyproject.toml
 setup.cfg
 setup.py
 Calculator/__init__.py
