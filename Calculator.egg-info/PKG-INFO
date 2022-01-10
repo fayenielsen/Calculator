@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Calculator
+Version: 0.0.1
+Summary: Basic calculator functionality
+Home-page: https://github.com/fayenielsen/Calculator
+Author: Faye Nielsen
+Author-email: fayemnielsen@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/fayenielsen/Calculator/archive/refs/tags/0.0.1.tar.gz
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+License-File: LICENSE
+
+README.md
+
